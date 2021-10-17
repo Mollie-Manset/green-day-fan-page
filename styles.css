@@ -41,7 +41,7 @@ html, body {
 }
 
 .main-nav li {
-    padding: 0 5%;
+    padding: 1em;
 }
 
 .main-nav li:hover {

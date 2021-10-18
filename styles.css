@@ -65,6 +65,14 @@ html, body {
     color: white;
 }
 
+.playernp {
+    justify-content: center;
+    align-self: center;
+}
+.listen-p {
+    font-size: 2em;
+}
+
 .content-section {
     margin: 1em;
     background-color: rgba(255, 255, 255, 0.3);
